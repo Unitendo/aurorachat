@@ -3,22 +3,12 @@
 
 <div align="center">
 <h1>Links</h1>
-<a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a>
-<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a>
-<a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a>
-<a href="https://github.com/Unitendo/aurorachat-server">Server</a>
-<a href="https://github.com/Unitendo/aurorachat-botlib">Bot Library</a>
-</div>
-
-<div align="center">
-  <a href="https://discord.gg/dCSgz7KERv">Join our Discord!</a>
-</div>
-
-<h1 align="center">Downloads</h1>
-
-<div align="center">
-  <a href="https://github.com/mii-man/aurorachat/releases">Stable Builds</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mii-man/aurorachat/actions">Nightly Builds</a>
+<a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-server">Server</a><br>
+<a href="https://github.com/Unitendo/aurorachat-botlib">Bot Library</a><br>
+<a href="https://discord.gg/dCSgz7KERv">Join our Discord!</a>
 </div>
 ‎ 
 <div align="center">
