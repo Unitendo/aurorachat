@@ -1,10 +1,17 @@
 <h1 align="center">aurorachat</h1>
 <p align="center">A chatting application for the Nintendo 3DS and 2DS line of systems</p>
 
+<div align="center">
+<h1>Links</h1>
+<a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a>
+<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a>
+<a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a>
+<a href="https://github.com/Unitendo/aurorachat-server">Server</a>
+<a href="https://github.com/Unitendo/aurorachat-botlib">Bot Library</a>
+</div>
 
 <div align="center">
-  <a href="https://discord.gg/dCSgz7KERv">Join our Discord!</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ItsFuntum/aurorachat-wiiu">Wii U client</a>
+  <a href="https://discord.gg/dCSgz7KERv">Join our Discord!</a>
 </div>
 
 <h1 align="center">Downloads</h1>
@@ -13,9 +20,6 @@
   <a href="https://github.com/mii-man/aurorachat/releases">Stable Builds</a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mii-man/aurorachat/actions">Nightly Builds</a>
 </div>
-
-<h1 align="center">Welcome to the aurorachat repository!</h1>
-This repository is <b>open</b> for contributions! If you'd like to, you may open a PR or an issue, contributing helps us as we develop aurorachat!
 ‎ 
 <div align="center">
   <details>
@@ -45,39 +49,7 @@ This repository is <b>open</b> for contributions! If you'd like to, you may open
   
   </details>
 </div>
-‎ 
-<h1 align="center">How to build aurorachat</h1>
-
-Install devkitpro with the 3DS development libraries and make, then execute the following commands based on your OS:
-
-Windows:
-```sh
-pacman -S 3ds-opusfile
-git clone https://github.com/mii-man/aurorachat
-cd aurorachat
-make
-make cia
-```
-
-Arch Linux or other distros with pacman:
-```sh
-sudo pacman -S 3ds-opusfile
-git clone https://github.com/mii-man/aurorachat
-cd aurorachat
-make
-make cia
-```
-
-Other Linux distros without pacman:
-```sh
-sudo dkp-pacman -S 3ds-opusfile
-git clone https://github.com/mii-man/aurorachat
-cd aurorachat
-make
-make cia
-```
-
-(At least that's what I think you gotta do)
+‎
 
 ## checklist if it was evil
 - [X] basic chatting 
