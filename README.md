@@ -3,6 +3,7 @@
 
 <div align="center">
 <h1>Links</h1>
+<a href="https://auc.unitendo.org">Website</a><br>
 <a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
