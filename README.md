@@ -19,21 +19,25 @@
   | Version | Status | Changelog |
   |--------|--------|--------|
   | v1.0.0 | In Development | Voice Chat, Drawings, Servers/Rooms, Miis, and more. |
+  | v0.6.01 | Released | Bug fixes |
+  | v0.6.0 | Released | Full code revamp 3 with... wait, we did a few more full revamps before this! Oh well. Version 4 did AuroraHTTP, this uses JSON instead of SQL. |
+  | v0.5.0 | God I wish it wasn't | Full code revamp 2.9 with 12387961238791237896132789137289123790123790971230 bugs (virt gooned too hard) |
+  | v0.4.4-6 | Released | I think it was bug fixes |
   | v0.4.3 | Released | New themes, platform tags, and more! |
-  | v0.0.4.2 | Released | bug fixes|
-  | v0.0.4.1 | Released | bug fixes |
-  | v0.0.4.0 | Released | TLS verification, accounts, audio, GUI overhaul |
-  | v0.0.3.9 | Maybe it was the friends we made along the way | Encryption, console-specific IDs |
-  | v0.0.3.4 | Released | PC Client, security improvements as well as a stack increase |
-  | v0.0.3.3 | Released | Fixed crash from duplicate theme text |
-  | v0.0.3.2 | Released | Added 3 themes, improved theme manager |
-  | v0.0.3.1 | Released | Added 2 themes, code fixes |
-  | v0.0.3 | Released | Added theme support |
-  | v0.0.2.5 | Released | Extended name length |
-  | v0.0.2.4 | Released | Fixed metadata implementation |
-  | v0.0.2.3 | Released | Initial metadata support |
-  | v0.0.2.2 | Released | Fixed RAM issue (audio temporarily removed) |
-  | v0.0.2.1 | Released | Fixed 3DS audio playback |
+  | v0.4.2 | Released | bug fixes|
+  | v0.4.1 | Released | bug fixes |
+  | v0.4.0 | Released | TLS verification, accounts, audio, GUI overhaul |
+  | v0.3.9 | Maybe it was the friends we made along the way | Encryption, console-specific IDs |
+  | v0.3.4 | Released | PC Client, security improvements as well as a stack increase |
+  | v0.3.3 | Released | Fixed crash from duplicate theme text |
+  | v0.3.2 | Released | Added 3 themes, improved theme manager |
+  | v0.3.1 | Released | Added 2 themes, code fixes |
+  | v0.3 | Released | Added theme support |
+  | v0.2.5 | Released | Extended name length |
+  | v0.2.4 | Released | Fixed metadata implementation |
+  | v0.2.3 | Released | Initial metadata support |
+  | v0.2.2 | Released | Fixed RAM issue (audio temporarily removed) |
+  | v0.2.1 | Released | Fixed 3DS audio playback |
   | v0.0.2 | Released | Full code revamp 2 with secure hbchat base |
   | v0.0.1 | Unreleased | Full Code Revamp due to me realising that citro2d has better text than the console. Also added a messsage sound from LINE (the texting app) to make the message sound. (Edit as of 10/22/25 AEDT: I'm using self made sound effects for sending and receiving messages) |
   | v0.0.0 | Unreleased | I have no idea. |
