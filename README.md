@@ -49,7 +49,7 @@
 ## checklist if it was evil
 - [X] basic chatting 
 - [X] awesome themes
-- [ ] awesome encryption
+- [X] awesome encryption
 - [X] account stuff
 - [ ] other stuff
 - [X] sound stuff
