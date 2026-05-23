@@ -1,4 +1,4 @@
-<h1 align="center">aurorachat</h1>
+<img src="https://github.com/Unitendo/aurorachat-3ds/blob/main/meta/banner.png" align="center"></img>
 <p align="center">A chatting application for the Nintendo 3DS and 2DS line of systems</p>
 
 <div align="center">
