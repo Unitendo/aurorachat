@@ -8,6 +8,7 @@
 <a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-switch">Switch Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-9x">Windows 9x Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-server">Server</a><br>
 <a href="https://github.com/Unitendo/aurorachat-botlib">Bot Library</a><br>
