@@ -22,7 +22,7 @@
   | Version | Status | Changelog |
   |--------|--------|--------|
   | v0.7.0 | Active Development | Major GUI redesign, carefully constructed rewrite, and fixes for numerous issues. |
-  | v0.6.09 | Soon:tm: | Adds whatever the next critical thing is that was removed for some reason |
+  | v0.6.09 | Released | Adds ban appeals |
   | v0.6.08 | Released | Adds banning |
   | v0.6.07 | Released | Adds rules (67) |
   | v0.6.06 | Released | Clarifies an issue |
