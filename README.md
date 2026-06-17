@@ -38,7 +38,7 @@
   | v0.4.2 | Deprecated | bug fixes|
   | v0.4.1 | Deprecated | bug fixes |
   | v0.4.0 | Deprecated | TLS verification, accounts, audio, GUI overhaul |
-  | v0.3.9 | Deprecated/Never released | Encryption, console-specific IDs |
+  | v0.3.9 | Never existed | Encryption, console-specific IDs |
   | v0.3.4 | Deprecated | PC Client, security improvements as well as a stack increase |
   | v0.3.3 | Deprecated | Fixed crash from duplicate theme text |
   | v0.3.2 | Deprecated | Added 3 themes, improved theme manager |
@@ -50,8 +50,8 @@
   | v0.2.2 | Deprecated | Fixed RAM issue (audio temporarily removed) |
   | v0.2.1 | Deprecated | Fixed 3DS audio playback |
   | v0.0.2 | Deprecated | Full code revamp 2 with secure hbchat base |
-  | v0.0.1 | Never released | Full Code Revamp due to me realising that citro2d has better text than the console. Also added a messsage sound from LINE (the texting app) to make the message sound. (Edit as of 10/22/25 AEDT: I'm using self made sound effects for sending and receiving messages) |
-  | v0.0.0 | Unreleased | I have no idea. |
+  | v0.0.1 | Never existed | Full Code Revamp due to me realising that citro2d has better text than the console. Also added a messsage sound from LINE (the texting app) to make the message sound. (Edit as of 10/22/25 AEDT: I'm using self made sound effects for sending and receiving messages) |
+  | v0.0.0 | Never existed | I have no idea. |
   
   </details>
 </div>
