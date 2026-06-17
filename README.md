@@ -22,7 +22,7 @@
   
   | Version | Status | Changelog |
   |--------|--------|--------|
-  | v0.6.1 | In development...? | What if we make v6 like v4/5? That would be awesome! |
+  | v0.7.0 | Active Development | Major GUI redesign, carefully constructed rewrite, and fixes for numerous issues. |
   | v0.6.04 | Released | Patch release |
   | v0.6.03 | Released | Nintendo Wii U release |
   | v0.6.02 | Released | Patch release |
