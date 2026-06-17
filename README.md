@@ -12,7 +12,6 @@
 <a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-bbs">BBS Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-server">Server</a><br>
-<a href="https://github.com/Unitendo/aurorachat-botlib">Bot Library</a><br>
 <a href="https://discord.gg/dNrn73szZQ">Join our Discord!</a>
 </div>
 ‎ 
