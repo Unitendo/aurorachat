@@ -62,7 +62,6 @@
 - [X] awesome themes
 - [X] awesome encryption
 - [X] account stuff
-- [ ] other stuff
 - [X] sound stuff
 - [ ] advanced chating
 - [ ] and all the stuff that we forgot
