@@ -58,13 +58,7 @@
   
   </details>
 </div>
-‎
 
-## checklist if it was evil
-- [X] basic chatting 
-- [X] awesome themes
-- [X] awesome encryption
-- [X] account stuff
-- [X] sound stuff
-- [ ] advanced chating
-- [ ] and all the stuff that we forgot
+‎
+## Thank you!
+<img src = "https://contrib.rocks/image?repo=Unitendo/aurorachat"/>
