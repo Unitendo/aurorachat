@@ -9,7 +9,7 @@
 <a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-switch">Switch Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-windows">Windows Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-9x">Windows 9x Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-9x-v7">Windows 9x Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
   <a href="https://github.com/Unitendo/aurorachat-turbowarp">TurboWarp Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-bbs">BBS Client</a><br>
