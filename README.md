@@ -12,9 +12,8 @@
 <a href="https://github.com/Unitendo/aurorachat-9x-v7">Windows 9x Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-wii">Wii Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-turbowarp">TurboWarp Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-bbs">BBS Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-server">Server</a><br>
 <a href="https://github.com/Unitendo/aurorachat-server-v7">Server (v7)</a><br>
+<a href="https://github.com/Unitendo/aurorachat-server">Server (legacy v6)</a><br>
 <a href="https://discord.gg/6AQq7U5Q5E">Join our Discord!</a>
 </div>
 ‎ 
