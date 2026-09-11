@@ -6,7 +6,7 @@
 <h1>Links</h1>
 <a href="https://auc.unitendo.org">Website</a><br>
 <a href="https://github.com/Unitendo/aurorachat-3ds">3DS Client</a><br>
-<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a><br>
+<a href="https://github.com/Unitendo/aurorachat-wiiu">Wii U Client</a> | <a href="https://github.com/Unitendo/aurorachat-wiiu-plugin">Wii U Plugin</a><br>
 <a href="https://github.com/Unitendo/aurorachat-switch">Switch Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-windows">Windows Client</a><br>
 <a href="https://github.com/Unitendo/aurorachat-9x-v7">Windows 9x Client</a><br>
