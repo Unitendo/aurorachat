@@ -23,7 +23,11 @@
   
   | Version | Status | Changelog |
   |--------|--------|--------|
-  | v0.7.0 | Active Development | Major GUI redesign, carefully constructed rewrite, and fixes for numerous issues. |
+  | v0.7.1 | Released | Adds many client-side features that were already on the client |
+  | v0.7.0.2 | Released | Patch release |
+  | v0.7.0.1 | Released | Patch release |
+  | v0.7.0 | Released | Major GUI redesign, carefully constructed rewrite, and fixes for numerous issues. |
+  | v0.6.1 | Released | Adds important features |
   | v0.6.09 | Released | Adds ban appeals |
   | v0.6.08 | Released | Adds banning |
   | v0.6.07 | Released | Adds rules (67) |
